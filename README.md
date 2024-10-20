@@ -1,1 +1,25 @@
 # 2024-Fall-Midterm
+
+- What is the difference between PoS and PoW?
+- What is gas? What is EIP-1559? How did things change before and after EIP-1559?
+- What are the different account types in Ethereum, and how do they differ?
+- What is ERC-20, and how does it work?
+    - The interface
+    - The operations
+    - weird erc20
+- What is ERC-721, and how does it work?
+    - The interface
+    - The operations
+- What are the differences between ERC-20 and ERC-721, Fungible Tokens and Non-Fungible Tokens (NFTs)?
+- What is an ERC-4626 vault? How does it work, and what are the security concerns? How can they be mitigated?
+- What is the difference between `receive` and `fallback` functions?
+- What is a storage layout, and how are slots calculated?
+- How do proxy patterns work, and what are the differences between various proxy patterns?
+- What are the security concerns with upgradeable proxies? How can they be mitigated?
+- What is the difference between `call` and `delegatecall` in terms of `msg.sender` and `msg.value`?
+- What is access control, and what are some examples?
+- What is reentrancy? What are the types of reentrancy, and how can it be mitigated?
+- How does ECDSA work? What is the relationship between the private key, public key, and signature?
+- What is a Merkle root, and what are the potential issues? How can they be prevented?
+- How can secure randomness be retrieved on-chain? What methods are not secure?
+- How does a multisig wallet work? What are the potential concerns in multisig implementations?
